@@ -1,0 +1,13 @@
+{
+    "appId": "dfsdfds.fsfd",
+    "appName": "svelte-app",
+    "bundledWebRuntime": false,
+    "npmClient": "npm",
+    "webDir": "public",
+    "plugins": {
+        "SplashScreen": {
+            "launchShowDuration": 0
+        }
+    },
+    "cordova": {}
+}
